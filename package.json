@@ -1,0 +1,13 @@
+{
+  "name": "adventofcode2021",
+  "version": "1.0.0",
+  "main": "day1.js",
+  "scripts": {
+    "test": "jest",
+    "day25": "node ./day25/day25.js"
+  },
+  "author": "Wouter",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
